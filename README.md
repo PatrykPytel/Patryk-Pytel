@@ -1,2 +1,3 @@
 # Patryk-Pytel
-My personal repository.
+Hi there!
+- I am currently unsuccessfully trying to aply for github student developer pack :)
